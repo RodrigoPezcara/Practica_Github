@@ -1,6 +1,7 @@
 # Practica_Github
 
 <<<<<<< HEAD
+
 Gustavo_Casas
 =======
 Javier Sanabria
